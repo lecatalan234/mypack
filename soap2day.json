@@ -3,7 +3,7 @@
   "enable_ads": 1,
   "enable_ads1": 1,
   "enable_ads2": 1,
-  "enable_ads3": 0,
+  "enable_ads3": 1,
   "name": "soap2day",
   "page": 5
 }
