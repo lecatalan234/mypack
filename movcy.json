@@ -1,6 +1,7 @@
 {
   "frq_ads": 2,
   "enable_ads": 1,
+  "enable_ads1": 0,
   "name": "movcy",
   "showAll": 1
 }
