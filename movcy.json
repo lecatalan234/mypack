@@ -2,7 +2,7 @@
   "frq_ads": 1,
   "enable_ads": 1,
   "enable_ads1": 1,
-  "ads_fan": 0,
+  "ads_fan": 1,
   "ads_admob": 0,
   "frq_ads_admob": 3,
   "name": "movcy",
