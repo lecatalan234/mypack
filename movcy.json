@@ -4,7 +4,7 @@
   "enable_ads1": 1,
   "ads_fan": 0,
   "ads_admob": 1,
-  "frq_ads_admob": 1,
+  "frq_ads_admob": 3,
   "name": "movcy",
   "showAll": 1
 }
