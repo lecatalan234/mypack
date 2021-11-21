@@ -1,26 +1,32 @@
 [
   {
     "name": 1493922600000,
-    "units": test
+    "units": 320,
+    "url" : "Test 1"
   },
   {
     "name": 1494009000000,
-    "units": 552
+    "units": 552,
+    "url" : "Test 2"
   },
   {
     "name": 1494095400000,
-    "units": 342
+    "units": 342,
+    "url" : "Test 3"
   },
   {
     "name": 1494181800000,
-    "units": 431
+    "units": 431,
+    "url" : "Test 4"
   },
   {
     "name": 1494268200000,
-    "units": 251
+    "units": 251,
+    "url" : "Test 5"
   },
   {
     "name": 1494354600000,
-    "units": 445
+    "units": 445,
+    "url" : "Test 6"
   }
 ]
