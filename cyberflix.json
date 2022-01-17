@@ -1,7 +1,7 @@
 {
   "frq_ads": 1,
   "ads_fan": 0,
-  "ads_admob": 1,
+  "ads_admob": 0,
   "ads_admob_native": 0,
   "frq_ads_admob": 3,
   "name": "cyberflix",
