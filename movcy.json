@@ -1,10 +1,10 @@
 {
   "frq_ads": 1,
-  "enable_ads": 1,
-  "enable_ads1": 1,
+  "enable_ads": 0,
+  "enable_ads1": 0,
   "ads_fan": 0,
-  "ads_admob": 1,
-  "ads_admob1": 1,
+  "ads_admob": 0,
+  "ads_admob1": 0,
   "frq_ads_admob": 3,
   "name": "movcy",
   "showAll": 1
