@@ -5,7 +5,8 @@
   "ads_admob_native": 0,
   "frq_ads_admob": 3,
   "name": "cyberflix",
-  "showAll": 1
-  "ads-plateforme": "F"
-  "show-ads": 1
+  "showAll": 1,
+  "ads-plateforme": "F",
+  "show-ads": 1,
+  "ads-native": 1
 }
