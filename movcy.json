@@ -1,7 +1,7 @@
 {
   "frq_ads": 1,
-  "enable_ads": 0,
-  "enable_ads1": 0,
+  "enable_ads": 1,
+  "enable_ads1": 1,
   "ads_fan": 0,
   "ads_admob": 1,
   "ads_admob1": 1,
