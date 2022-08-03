@@ -1,6 +1,6 @@
 {
   "frq_ads": 1,
-  "enable_ads": 1,
-  "enable_ads2": 1,
+  "enable_ads": 0,
+  "enable_ads2": 0,
   "name": "food composition"
 }
