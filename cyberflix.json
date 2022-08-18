@@ -1,12 +1,12 @@
 {
-  "frq_ads": 5,
+  "frq_ads": 3,
   "ads_fan": 0,
   "ads_admob": 0,
   "ads_admob_native": 0,
-  "frq_ads_admob": 5,
+  "frq_ads_admob": 3,
   "name": "cyberflix",
   "showAll": 1,
   "ads-plateforme": "G",
   "show-ads": 1,
-  "ads-native": 0
+  "ads-native": 1
 }
